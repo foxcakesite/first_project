@@ -1,2 +1,4 @@
-# limponfoxcakesite.github.io
- 
+# Мой первый сайт
+## Описание
+Сайт создан с помощью html и css без использования javaScript.
+Сайт адаптирован для ПК и планшетов, мобильная версия также будет добавлена, просмотреть можно по ссылке: https://rinaushakova.github.io/first_project/
